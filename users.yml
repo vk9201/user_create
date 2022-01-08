@@ -4,3 +4,8 @@ myusers:
      first: ravi
      last: sharma
      middle: exam
+   - name: rahul
+     uid: 1011
+     first: rahul
+     middle: dhand
+     last: dth
